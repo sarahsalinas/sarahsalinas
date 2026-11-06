@@ -77,7 +77,7 @@ I wanted the website to feel welcoming and a little magical, so I included featu
 > **Built with:** HTML, CSS, JavaScript
 
 
-✦ 03. Starry Summit Lake Retreat - resort website ✦
+✦ 03. [Starry Summit Lake Retreat - resort website](https://sarahsalinas.github.io/Starry-Summit-Lake-Retreat/) ✦
 
 A fictional resort website inspired by the Swiss Alps.
 
