@@ -23,7 +23,7 @@ Thanks for stopping by my little corner of GitHub! (˶ᵔ ᵕ ᵔ˶)
 
 ---
 
-✿ about me
+## ✿ about me
 
                  /\_/\ !! 
              = ( • . • ) =
@@ -42,7 +42,7 @@ A few things about me:
 
 ---
 
-✿ languages & skills
+## ✿ languages & skills
 
 > coding languages
 
@@ -54,13 +54,13 @@ A few things about me:
 
 ---
 
-✿ my projects
+## ✿ my projects
 
 ⋆˚✿˖°
 
 > a collection of things i've made!
 
-✦ 01. XDAM - independent artist website ✦
+✦ 01. [XDAM - independent artist website](https://sarahsalinas.github.io/Xdam/) ✦
 
 A website I created for an independent music artist to showcase his music and identity.
 
@@ -68,7 +68,7 @@ I took inspiration from old arcade games and CRT monitors to give the website a 
 
 > **Built with:** HTML, CSS, JavaScript
 
-✦ 02. Starlit Cafe - interactive cafe website ✦
+✦ 02. [Starlit Cafe - interactive cafe website](https://sarahsalinas.github.io/starlit-cafe/) ✦
 
 A fictional cafe inspired by Rosalina from Super Mario Galaxy and cozy gaming environments. ✩
 
@@ -87,7 +87,7 @@ I used a dark navy and gold color palette to create a peaceful, starry atmospher
 
 ---
 
-✿ currently working on
+## ✿ currently working on
 
 ✧ Stellr — organization & focus website
 
@@ -111,7 +111,7 @@ The idea came from wanting a simple, friendly space where people can keep track 
 
 ---
 
-✿ what's next?
+## ✿ what's next?
 
 I'm getting closer to graduating, which is both exciting and a little nerve-racking!
 
@@ -121,7 +121,7 @@ For now, I'm focusing on finishing my projects, improving my skills, and seeing 
 
 ---
 
-✿ contact
+## ✿ contact
 
 > want to say hello? (｡•̀ᴗ-)✧
 
