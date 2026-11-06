@@ -1,8 +1,8 @@
-✦ hello, i'm Sarah! ✦
+✦ Hello, i'm Sarah! ✦
 
 `web development student` ✧ `creative thinker` ✧
 
-Hi there! I'm Sarah Salinas, a Graphic Information Technology student at Arizona State University with a focus on web development. ♡
+I'm a Graphic Information Technology student at Arizona State University with a focus on web development. ♡
 
 I enjoy making websites that are functional, visually interesting, and have a little personality to them. There's something really satisfying about starting with an idea and slowly watching it come together through code.
 
@@ -46,11 +46,11 @@ A few things about me:
 
 > coding languages
 
-`HTML` · `CSS` · `JavaScript` · `SQL`
+`HTML` · `CSS` · `JavaScript` · `SQL` · `Python` · `Java` 
 
 > other skills & tools**
 
-`Git & GitHub` · `Responsive Web Design` · `UI Design` · `Wireframing` · `Adobe Illustrator` · `Adobe InDesign`
+`GitHub` · `Visual Studio Code` · `Responsive Web Design` · `UI Design` · `Wireframing` · `Adobe Illustrator` · `Adobe InDesign`
 
 ---
 
@@ -70,7 +70,7 @@ I took inspiration from old arcade games and CRT monitors to give the website a 
 
 ✦ 02. [Starlit Cafe - interactive cafe website](https://sarahsalinas.github.io/starlit-cafe/) ✦
 
-A fictional cafe inspired by Rosalina from Super Mario Galaxy and cozy gaming environments. ✩
+A fictional cafe inspired by Rosalina from Super Mario Galaxy and gaming cafes. ✩
 
 I wanted the website to feel welcoming and a little magical, so I included features like light and dark mode, an interactive menu, a guessing game, and a contact form.
 
@@ -107,7 +107,7 @@ The idea came from wanting a simple, friendly space where people can keep track 
 
 **Built with:** HTML, CSS, JavaScript
 
-`status: work in progress... ♡`
+`status: work in progress... 32% done ♡`
 
 ---
 
