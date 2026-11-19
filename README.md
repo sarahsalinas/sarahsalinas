@@ -8,7 +8,8 @@ I enjoy making websites that are functional, visually interesting, and have a li
 
 I'm especially interested in front-end and full-stack development, and I'd love to eventually work on something related to gaming or a project that genuinely helps people.
 
-Thanks for stopping by my little corner of GitHub! (˶ᵔ ᵕ ᵔ˶)
+Thanks for stopping by my little corner of GitHub! 
+(˶ᵔ ᵕ ᵔ˶)
 
 ---
 
@@ -48,7 +49,7 @@ A few things about me:
 
 `HTML` · `CSS` · `JavaScript` · `SQL` · `Python` · `Java` 
 
-> other skills & tools**
+> other skills & tools
 
 `GitHub` · `Visual Studio Code` · `Responsive Web Design` · `UI Design` · `Wireframing` · `Adobe Illustrator` · `Adobe InDesign`
 
