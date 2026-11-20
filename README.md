@@ -108,7 +108,7 @@ The idea came from wanting a simple, friendly space where people can keep track 
 
 **Built with:** HTML, CSS, JavaScript
 
-`status: work in progress... 32% done ♡`
+`status: work in progress... 82% done ♡`
 
 ---
 
